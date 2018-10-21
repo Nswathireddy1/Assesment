@@ -1,0 +1,6 @@
+F:\BIZRUNTIME\Practice\Exam1\ConsoleApp1\Client\bin\Debug\Client.exe.config
+F:\BIZRUNTIME\Practice\Exam1\ConsoleApp1\Client\bin\Debug\Client.exe
+F:\BIZRUNTIME\Practice\Exam1\ConsoleApp1\Client\bin\Debug\Client.pdb
+F:\BIZRUNTIME\Practice\Exam1\ConsoleApp1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\BIZRUNTIME\Practice\Exam1\ConsoleApp1\Client\obj\Debug\Client.exe
+F:\BIZRUNTIME\Practice\Exam1\ConsoleApp1\Client\obj\Debug\Client.pdb

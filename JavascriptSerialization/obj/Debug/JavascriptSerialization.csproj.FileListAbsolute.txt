@@ -1,0 +1,10 @@
+F:\BIZRUNTIME\Practice\Exam1\JavascriptSerialization\JavascriptSerialization\obj\Debug\JavascriptSerialization.csprojAssemblyReference.cache
+F:\BIZRUNTIME\Practice\Exam1\JavascriptSerialization\JavascriptSerialization\obj\Debug\JavascriptSerialization.csproj.CoreCompileInputs.cache
+F:\BIZRUNTIME\Practice\Exam1\JavascriptSerialization\JavascriptSerialization\bin\Debug\JavascriptSerialization.exe.config
+F:\BIZRUNTIME\Practice\Exam1\JavascriptSerialization\JavascriptSerialization\bin\Debug\JavascriptSerialization.exe
+F:\BIZRUNTIME\Practice\Exam1\JavascriptSerialization\JavascriptSerialization\bin\Debug\JavascriptSerialization.pdb
+F:\BIZRUNTIME\Practice\Exam1\JavascriptSerialization\JavascriptSerialization\bin\Debug\Newtonsoft.Json.dll
+F:\BIZRUNTIME\Practice\Exam1\JavascriptSerialization\JavascriptSerialization\bin\Debug\Newtonsoft.Json.xml
+F:\BIZRUNTIME\Practice\Exam1\JavascriptSerialization\JavascriptSerialization\obj\Debug\JavascriptSerialization.csproj.CopyComplete
+F:\BIZRUNTIME\Practice\Exam1\JavascriptSerialization\JavascriptSerialization\obj\Debug\JavascriptSerialization.exe
+F:\BIZRUNTIME\Practice\Exam1\JavascriptSerialization\JavascriptSerialization\obj\Debug\JavascriptSerialization.pdb
